@@ -2,7 +2,7 @@
 
 Postgres server implementation.
 
-## Launching application
+## Application startup
 
 ```bash
 $ docker compose up --build -d
