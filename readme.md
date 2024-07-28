@@ -1,8 +1,8 @@
-## Application description
+## Description of the application
 
 Postgres server implementation.
 
-## Application startup
+## Launching the application
 
 ```bash
 $ docker compose up --build -d
